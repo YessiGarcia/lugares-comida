@@ -1,10 +1,10 @@
-#map{
+.map{
 	width: 97.5%;
 	height: 80vh;
 }
 
 .restaurante img{
 	width: 300px;
-	
+	cursor:pointer;
 }
 
